@@ -13,7 +13,7 @@
 
  <table>
       <tbody><tr>
-       <td><a target="_blank" rel="noopener noreferrer" href="/fossasia/pslab-android/blob/development/docs/images/view_device_not_found.png"><img src="/fossasia/pslab-android/raw/development/docs/images/view_device_not_found.png" style="max-width:100%;"></a></td>
+       <td><a target="_blank" rel="noopener noreferrer" href="/fossasia/pslab-android/blob/development/docs/images/view_device_not_found.png"><img src="https://user-images.githubusercontent.com/58745332/80380760-4ca13680-88a0-11ea-908a-8644bea93b5f.png" style="max-width:100%;"></a></td>
        <td><a target="_blank" rel="noopener noreferrer" href="/fossasia/pslab-android/blob/development/docs/images/view_home_screen.png"><img src="/fossasia/pslab-android/raw/development/docs/images/view_home_screen.png" style="max-width:100%;"></a></td>
        <td><a target="_blank" rel="noopener noreferrer" href="/fossasia/pslab-android/blob/development/docs/images/view_instrument_panel.png"><img src="/fossasia/pslab-android/raw/development/docs/images/view_instrument_panel.png" style="max-width:100%;"></a></td>
        <td><a target="_blank" rel="noopener noreferrer" href="/fossasia/pslab-android/blob/development/docs/images/view_about_us.png"><img src="/fossasia/pslab-android/raw/development/docs/images/view_about_us.png" style="max-width:100%;"></a></td>
