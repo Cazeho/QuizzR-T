@@ -1,4 +1,4 @@
-# QuizzR&T Android App <img src="https://user-images.githubusercontent.com/58745332/80386103-35b21280-88a7-11ea-9c16-0d99490c847e.png">
+#<img src="https://user-images.githubusercontent.com/58745332/80386103-35b21280-88a7-11ea-9c16-0d99490c847e.png"> QuizzR&T Android App 
 
 
 
